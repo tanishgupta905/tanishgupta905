@@ -6,10 +6,10 @@
 src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5fdb14">
 -->
 
-<!-- تصویر اول در سمت چپ -->
+
 <img align="left" src="https://github.com/user-attachments/assets/5a5ff8ce-011f-4bcf-83a1-67aa5a7c4a2a" width="56%" height="60%" />
 
-<!-- تصویر دوم در سمت راست -->
+
 <img align="right" src="https://github.com/user-attachments/assets/02035970-57f2-402c-ad8f-4ef48ed72524" width="34%" height="60%" />
 
 <br clear="both"/>
@@ -30,7 +30,6 @@ src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5f
 - ⚡ Skilled in DevOps, CI/CD pipelines, Docker, and Kubernetes for seamless deployments.  
 - 💡 Open to collaborating on open-source projects and innovative web application development.
 
-Here’s an updated version of your **Languages & Technologies** section based on your expertise:  
 
 ## Languages & Technologies  
 
