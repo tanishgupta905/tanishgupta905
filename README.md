@@ -29,8 +29,7 @@ src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5f
 - 🔧 Experienced in developing RESTful APIs, integrating third-party services, and optimizing database performance.  
 - ⚡ Skilled in DevOps, CI/CD pipelines, Docker, and Kubernetes for seamless deployments.  
 - 💡 Open to collaborating on open-source projects and innovative web application development.
-
-Here’s an updated version of your **Languages & Technologies** section based on your expertise:  
+ 
 
 ## Languages & Technologies  
 
